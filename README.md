@@ -1,4 +1,4 @@
-# Corona Visualization project  :mask:
+# COVID-19 Visualization project  :mask:
 
 
 본 프로젝트는 데이콘 코로나 데이터 시각화 경진대회에 참여하며 진행한 프로젝트입니다.
